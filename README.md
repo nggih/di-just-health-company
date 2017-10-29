@@ -1,0 +1,2 @@
+# di-just-health-company
+Data Incubator Semifinalist project. I propose to analyze the PROJECT 2: BUSINESS AND HEALTH.  Plot 1 will answer the question of 'Can JUST Capital data on corporate behavior, be linked to population-wide performance on measures of community health?' Plot 2 will answer the question of 'What is the relationship between county health, corporate performance and the issues important to the American public?'
